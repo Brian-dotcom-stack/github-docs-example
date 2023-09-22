@@ -45,25 +45,25 @@ if __name__ == '__main__':
     app.run()
 ```
 
--Make note of where the backtick key is.
+- Make note of where the backtick key is.
 
 ![Photo of Ppe Character](assets/backtick.jpeg)
 
--Good Cloud Engineers use Codeblocks for both code and Errors that appear in the console.
+- Good Cloud Engineers use Codeblocks for both code and Errors that appear in the console.
 
 ```bash
 
 bash: command not found: some_command
 ```
 
->Here is an example of using a codeblock for an error that appears in bash.
+> Here is an example of using a codeblock for an error that appears in bash.
 
 When you can always provide a codeblock nstead of a screenshot.
 If you need to take a screenshot make sure its not from your phone.
 
->There are certain cases to tae photos with your phone. This is when you are showing like a keyboad, which does not appear on a computer screen. If it render on your computer screen it should be a screenshot.
+> There are certain cases to tae photos with your phone. This is when you are showing like a keyboad, which does not appear on a computer screen. If it render on your computer screen it should be a screenshot.
 
-## Step 2 - 
+## Step 2 - Taking Screenshots
 
 A screenshot is when you capture a part of your screen from your Desktop or phone.
 
@@ -118,9 +118,9 @@ To take screenshots on both Mac and Windows computers, you can use keyboard shor
 
 Please note that the specific key combinations and options may vary slightly depending on your version of macOS or Windows, so if you're using an older version, the shortcuts might be slightly different. Additionally, you can customize screenshot settings and destinations in your system preferences on both Mac and Windows.
 
-## Step 3 - Use Gthub Flavoured Tas Lst
+## Step 3 - Use Github Flavoured Task List
 
-Github extends mardown to have a list where you can chec off tems. <sup>[1]</sup>
+Github extends markdown to have a list where you can check off items. <sup>[1]</sup>
 
 - [x] Finish Step 1
 - [ ] Finish Step 2
@@ -129,7 +129,8 @@ Github extends mardown to have a list where you can chec off tems. <sup>[1]</sup
 # Step 4 - Use Emojis (Optional)
 
 GFM  supports emoji shortcodes.
--Here are some examples.
+
+- Here are some examples.
 
 ```md
 | --- | --- | --- |
@@ -149,9 +150,9 @@ You can use the following markdown format to creaate tables:
 ```
 Github extends the functionality of markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
 
--Make note of where the backtick character is located.
--It should appear above the Tab key,
--but it may vary based on your keyboard layout.
+- Make note of where the backtick character is located.
+- It should appear above the Tab key,
+- but it may vary based on your keyboard layout.
 
 ![Photo of Ppe Character](assets/pipecharacter.jpeg)
 
